@@ -1,6 +1,6 @@
 [ja](./README.ja.md)
 
-# Shell.FirstNameGenerator.20200918080000
+# Shell.JapaneseFirstNameGenerator.20200918080000
 
 Randomly generate names excluding Japanese first names.
 
@@ -63,13 +63,13 @@ Linux raspberrypi 4.19.97-v7l+ #1294 SMP Thu Jan 30 13:21:14 GMT 2020 armv7l GNU
 # Installation
 
 ```sh
-git clone https://github.com/ytyaru/Shell.FirstNameGenerator.20200918080000
+git clone https://github.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000
 ```
 
 # Usage
 
 ```sh
-cd Shell.FirstNameGenerator.20200918080000/src
+cd Shell.JapaneseFirstNameGenerator.20200918080000/src
 ./jfn.sh
 ```
 
@@ -140,7 +140,7 @@ Search by specifying prefix match, suffix match, partial match, exact match, and
 # Note
 
 * `-s * -r E` can duplicate the name of `c`
-* When `-n -1`, it takes nearly 1 minute to execute: [execution_time.md](https://raw.githubusercontent.com/ytyaru/Shell.FirstNameGenerator.20200918080000/master/note/execution_time.md)
+* When `-n -1`, it takes nearly 1 minute to execute: [execution_time.md](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/master/note/execution_time.md)
 
 # Related repositories
 

@@ -1,6 +1,6 @@
 [en](./README.md)
 
-# Shell.FirstNameGenerator.20200918080000
+# Shell.JapaneseFirstNameGenerator.20200918080000
 
 　日本人の名字を除く名前を重複せずランダムに生成する。
 
@@ -63,17 +63,17 @@ Linux raspberrypi 4.19.97-v7l+ #1294 SMP Thu Jan 30 13:21:14 GMT 2020 armv7l GNU
 # インストール
 
 ```sh
-git clone https://github.com/ytyaru/Shell.FirstNameGenerator.20200918080000
+git clone https://github.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000
 ```
 
 # 使い方
 
 ```sh
-cd Shell.FirstNameGenerator.20200918080000/src
+cd Shell.JapaneseFirstNameGenerator.20200918080000/src
 ./jfn.sh
 ```
 
-* [help.txt](https://raw.githubusercontent.com/ytyaru/Shell.FirstNameGenerator.20200918080000/master/src/doc/help.txt)
+* [help.txt](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/master/src/doc/help.txt)
 
 ## サブコマンド
 
@@ -142,7 +142,7 @@ extractor [-s SEX] [-fbperFBPER COND] ...|正確な条件指定で抽出する�
 # 注意
 
 * `-s * -r E` のときは `c` の名前が重複しうる
-* `-n -1` のときは実行に1分近くかかる: [execution_time.md](https://raw.githubusercontent.com/ytyaru/Shell.FirstNameGenerator.20200918080000/master/note/execution_time.md)
+* `-n -1` のときは実行に1分近くかかる: [execution_time.md](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/master/note/execution_time.md)
 
 # 関連リポジトリ
 
