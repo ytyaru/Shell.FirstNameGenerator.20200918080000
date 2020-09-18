@@ -73,6 +73,8 @@ cd Shell.JapaneseFirstNameGenerator.20200918080000/src
 ./jfn.sh
 ```
 
+* [help.txt](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/master/src/doc/help.txt)
+
 ## Subcommand
 
 Subcommands|Overview
@@ -140,7 +142,7 @@ Search by specifying prefix match, suffix match, partial match, exact match, and
 # Note
 
 * `-s * -r E` can duplicate the name of `c`
-* When `-n -1`, it takes nearly 1 minute to execute: [execution_time.md](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/master/note/execution_time.md)
+* When `-n -1`, it takes nearly 1 minute to execute: [execution_time.md](https://github.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/blob/master/note/execution_time.md)
 
 # Related repositories
 

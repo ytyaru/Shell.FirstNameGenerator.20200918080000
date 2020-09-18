@@ -142,7 +142,7 @@ extractor [-s SEX] [-fbperFBPER COND] ...|正確な条件指定で抽出する�
 # 注意
 
 * `-s * -r E` のときは `c` の名前が重複しうる
-* `-n -1` のときは実行に1分近くかかる: [execution_time.md](https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/master/note/execution_time.md)
+* `-n -1` のときは実行に1分近くかかる: [execution_time.md](https://github.com/ytyaru/Shell.JapaneseFirstNameGenerator.20200918080000/blob/master/note/execution_time.md)
 
 # 関連リポジトリ
 
